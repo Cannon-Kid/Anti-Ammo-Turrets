@@ -14,7 +14,7 @@
   "rotateSpeed": 10,
   "consumes": {
     "coolant": {
-      "amount": 0.1 
+      "amount": 0.5
     }
   },
   "targetAir": "true",
