@@ -46,6 +46,6 @@
   ],
   "category": "turret",
   "type": "PowerTurret",
-  "health": 400,
-  "research": "arc"
+  "health": 455,
+  "research": "duo"
 }
