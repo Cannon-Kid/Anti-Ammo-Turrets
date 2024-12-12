@@ -47,5 +47,5 @@
   "category": "turret",
   "type": "PowerTurret",
   "health": 455,
-  "research": "duo"
+  "research": "lancer"
 }
