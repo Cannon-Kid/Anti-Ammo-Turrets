@@ -11,7 +11,7 @@
     "lightningLength": 20,
     "damage": 30
   },
-  "rotateSpeed": 100,
+  "rotateSpeed": 25,
   "consumes": {
     "coolant": {
       "amount": 0.1 
