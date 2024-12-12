@@ -1,0 +1,43 @@
+{
+  "name": "Arc Evolved",
+  "description": "A turret that acts just like an arc, but without ammo.",
+  "size": 1,
+  "range": 144,
+  "reload": 60,
+  "shootSound": "spark",
+  "shootCone": 5,
+  "shootType": {
+    "type": "LightningBulletType",
+    "lightningLength": 20,
+    "damage": 22
+  },
+  "rotateSpeed": 100,
+  "consumes": {
+    "coolant": {
+      "amount": 0.1 
+    }
+  },
+  "targetAir": "true",
+  "targetGround": "true",
+  "heatColor": "ff0000",
+  "shootEffect": "lightningShoot",
+  "recoil": 0.5,
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 10
+    },
+    {
+      "item": "lead",
+      "amount": 30
+    },
+    {
+      "item": "titanium",
+      "amount": 5
+    }
+  ],
+  "category": "turret",
+  "type": "PowerTurret",
+  "health": 200,
+  "research": "arc"
+}
