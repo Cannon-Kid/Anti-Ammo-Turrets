@@ -1,6 +1,6 @@
 {
   "name": "Arc Evolved",
-  "description": "A turret that acts just like an Arc, but without ammo.",
+  "description": "A turret that acts just like an Arc, but without ammo. Plus, it's stronger!",
   "size": 2,
   "range": 144,
   "reload": 15,
@@ -46,6 +46,6 @@
   ],
   "category": "turret",
   "type": "PowerTurret",
-  "health": 300,
+  "health": 400,
   "research": "arc"
 }
