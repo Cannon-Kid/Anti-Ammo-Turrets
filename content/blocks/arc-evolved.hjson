@@ -1,6 +1,6 @@
 {
   "name": "Arc Evolved",
-  "description": "A turret that acts just like an arc, but without ammo.",
+  "description": "A turret that acts just like an Arc, but without ammo.",
   "size": 2,
   "range": 144,
   "reload": 15,
