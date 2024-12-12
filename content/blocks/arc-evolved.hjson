@@ -12,7 +12,7 @@
     "damage": 30
   },
   "rotateSpeed": 9,
-  "consumes": {PRESTON
+  "consumes": {
     "coolant": {
       "amount": 0.5
     }
