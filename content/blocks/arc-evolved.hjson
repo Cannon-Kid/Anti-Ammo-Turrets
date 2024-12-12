@@ -25,15 +25,15 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 10
+      "amount": 150
     },
     {
       "item": "lead",
-      "amount": 30
+      "amount": 450
     },
     {
       "item": "titanium",
-      "amount": 5
+      "amount": 75
     }
   ],
   "category": "turret",
