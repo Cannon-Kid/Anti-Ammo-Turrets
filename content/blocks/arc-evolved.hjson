@@ -3,13 +3,13 @@
   "description": "A turret that acts just like an arc, but without ammo.",
   "size": 1,
   "range": 144,
-  "reload": 60,
+  "reload": 15,
   "shootSound": "spark",
   "shootCone": 5,
   "shootType": {
     "type": "LightningBulletType",
     "lightningLength": 20,
-    "damage": 22
+    "damage": 30
   },
   "rotateSpeed": 100,
   "consumes": {
