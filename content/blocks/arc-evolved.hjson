@@ -25,7 +25,7 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 150
+      "amount": 450
     },
     {
       "item": "lead",
