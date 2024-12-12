@@ -25,16 +25,24 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 735
+      "amount": 645
     },
     {
       "item": "lead",
-      "amount": 735
+      "amount": 645
     },
     {
       "item": "titanium",
-      "amount": 500
-    }
+      "amount": 320
+    },
+    {
+      "item": "graphite",
+      "amount": 385
+    },
+    {
+      "item": "silicon",
+      "amount": 225
+    },
   ],
   "category": "turret",
   "type": "PowerTurret",
